@@ -41,3 +41,7 @@ circle = Circle(3)
 print(f"Площа квадрата: {square.area()}")
 print(f"Площа прямокутника: {rectangle.area()}")
 print(f"Площа круга: {circle.area()}")
+
+
+
+print("jkfsdfsjkg;dfg")
